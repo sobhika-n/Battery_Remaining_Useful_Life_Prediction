@@ -29,7 +29,7 @@ The dataset used in this project contains the following columns:
 ## Exploratory Data Analysis (EDA)
 In this phase, we explore the dataset and prepare it for modeling. EDA involves the following steps:
 - Data Exploration: Visualizing data distributions using histograms, bar plots, and box plots.
-- Visualization: Univariate and multivariate analysis to gain insights into feature relationships.
+- Visualization: Univariate, bivariate and multivariate analysis to gain insights into feature relationships.
 
 ## Feature Engineering
 In this project, we remove certain features due to multicollinearity, simplifying the dataset for modeling.
