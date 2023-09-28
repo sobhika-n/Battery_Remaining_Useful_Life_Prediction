@@ -1,7 +1,7 @@
 # Battery Remaining Useful Life Prediction
 
 ## Project Overview
-The "Battery Remaining Useful Life Prediction" project leverages machine learning techniques to predict and classify the remaining useful life (RUL) of batteries based on various performance metrics. This project has significant implications in areas such as maintenance planning, resource allocation, and prolonging the life of batteries, ultimately contributing to cost savings and efficiency improvements.
+The "Battery Remaining Useful Life Prediction" project leverages machine learning techniques to predict the remaining useful life (RUL) of batteries based on various performance metrics. This project has significant implications in areas such as maintenance planning, resource allocation, and prolonging the life of batteries, ultimately contributing to cost savings and efficiency improvements.
 
 ## Python Packages Used
 This project utilizes the following Python packages:
