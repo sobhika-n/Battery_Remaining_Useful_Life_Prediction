@@ -10,8 +10,8 @@ This project utilizes the following Python packages:
 - Machine Learning: scikit-learn (sklearn), xgboost, TensorFlow (tensorflow) with Keras (keras)
 
 ## Project Files
-Battery_RUL_EDA.ipynb: This notebook contains the exploratory data analysis (EDA) steps.
-Battery_RUL_Modeling.ipynb: This notebook focuses on building machine learning models and evaluating their performance for RUL prediction.
+- Battery_RUL_EDA.ipynb: This notebook contains the exploratory data analysis (EDA) steps.
+- Battery_RUL_Modeling.ipynb: This notebook focuses on building machine learning models and evaluating their performance for RUL prediction.
 
 ## Dataset Information
 The dataset used in this project contains the following columns:
